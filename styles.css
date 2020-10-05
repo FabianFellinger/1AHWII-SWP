@@ -2,5 +2,6 @@ h1 {
     border-bottom: 1px dashed black;
     /* Kleinbuchstaben als kleine Großbuchstaben darstellen */
     font-variant:small-caps;
-    color: steelblue;
+    /* Schriftfarbe ändern */
+    color: rgb(106, 158, 201);
 }
